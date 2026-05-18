@@ -1,4 +1,4 @@
-[![Main Kittygram workflow](https://github.com/Outsider133/kittygram_final/actions/workflows/main.yml/badge.svg)](https://github.com/Outsider133/kittygram_final/actions/workflows/main.yml)
+[![Main Kittygram workflow](https://github.com/Outsider133/kittygram_final/actions/workflows/main.yml/badge.svg?event=push)](https://github.com/Outsider133/kittygram_final/actions/workflows/main.yml)
 
 
 
