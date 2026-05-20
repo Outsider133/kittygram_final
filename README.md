@@ -1,3 +1,7 @@
+[![Main Kittygram workflow](https://github.com/Outsider133/kittygram_final/actions/workflows/main.yml/badge.svg?event=push)](https://github.com/Outsider133/kittygram_final/actions/workflows/main.yml)
+
+
+
 # Kittygram
 
 Kittygram - это сайт на котором люди могут делиться своими котами, фото, достижения, год рождения и клички, 
